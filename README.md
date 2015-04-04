@@ -5,6 +5,7 @@ lxde-rc.xml file with multimedia config
 
 ### Run
 * Alt + Ctrl + T - lxterminal
+
 ### Dell D620 Multimedia Keys
 * XF86AudioMute - mute volume
 * XF86AudioLowerVolume - lower volume
